@@ -1,0 +1,108 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "AlankarKumar"
+theme = "beautifulhugo"
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = " " 
+#    subtitle = ""
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+#   rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Alankar Kumar"
+  website = "https://www.alankarkumar.com"
+  email = "allaboutcode001@gmail.com"
+  facebook = "Alankar-Kumar-2272193233013780"
+#   googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "AlankarKumar"
+#   gitlab = "username"
+#   bitbucket = "username"
+  twitter = "AlankarKumar92"
+#   reddit = "username"
+  linkedin = "alankar-kumar-27766786"
+#   xing = "username"
+#   stackoverflow = "users/XXXXXXX/username"
+#   snapchat = "username"
+  instagram = "alankar.kumar2/?hl=en"
+  youtube = "channel/UC5vPj1MhG4hkSvHqfLcMjfg" # or channel/channelname
+#   soundcloud = "username"
+#   spotify = "username"
+#   bandcamp = "username"
+#   itchio = "username"
+#   vk = "username"
+#   paypal = "username"
+#   telegram = "username"
+#   500px = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+# [[menu.main]]
+#     identifier = "category"
+#     name = "Category"
+#     weight = 2
+
+# [[menu.main]]
+#     parent = "category"
+#     name = "Big Image Sample"
+#     url = "post/2017-03-07-bigimg-sample"
+#     weight = 1
+
+# [[menu.main]]
+#     parent = "category"
+#     name = "Math Sample"
+#     url = "post/2017-03-05-math-sample"
+#     weight = 2
+
+# [[menu.main]]
+#     parent = "category"
+#     name = "Code Sample"
+#     url = "post/2016-03-08-code-sample"
+#     weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
