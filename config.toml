@@ -10,8 +10,8 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+disqusShortname = "alankarkumar"
+googleAnalytics = "UA-131527654-1"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -47,7 +47,7 @@ pygmentsCodefencesGuessSyntax = true
   name = "Alankar Kumar"
   website = "https://www.alankarkumar.com"
   email = "allaboutcode001@gmail.com"
-  facebook = "Alankar-Kumar-2272193233013780"
+#   facebook = "Alankar-Kumar-2272193233013780"
 #   googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "AlankarKumar"
 #   gitlab = "username"
@@ -59,7 +59,7 @@ pygmentsCodefencesGuessSyntax = true
 #   stackoverflow = "users/XXXXXXX/username"
 #   snapchat = "username"
   instagram = "alankar.kumar2/?hl=en"
-  youtube = "channel/UC5vPj1MhG4hkSvHqfLcMjfg" # or channel/channelname
+#   youtube = "channel/UC5vPj1MhG4hkSvHqfLcMjfg" # or channel/channelname
 #   soundcloud = "username"
 #   spotify = "username"
 #   bandcamp = "username"
