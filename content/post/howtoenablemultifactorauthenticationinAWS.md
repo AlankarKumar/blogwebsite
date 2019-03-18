@@ -2,6 +2,7 @@
 title: "How to enable (MFA) Multifactor Authentication in AWS"
 date: 2019-01-02T15:37:19+05:30
 draft: false
+bigimg: [{src: "/img/enablemfainaws/mfa.jpg"}]
 tags: ["aws","development"]
 ---
 
